@@ -1,6 +1,7 @@
 # GitFlow
 
  git add .
+ 
  git commit -am 'work 1'
  clear
  git tag 0.1
